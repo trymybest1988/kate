@@ -1,4 +1,4 @@
-# Kate is a lightweight HTTP API framework.
+# Kate is a lightweight HTTP API framework.(For Go1.6+)
 
 ## GETTING STARTED
 Please see [helloworld.go](https://github.com/k81/kate/blob/master/examples/helloworld.go)
@@ -12,6 +12,5 @@ Please see [helloworld.go](https://github.com/k81/kate/blob/master/examples/hell
 
 ## TODO
 - ORM and Cache support
-- Circuit Breaker support
-- RateLimit support
-- Service Registration support
+- Circuit Breaker and RateLimit support
+- Others...
